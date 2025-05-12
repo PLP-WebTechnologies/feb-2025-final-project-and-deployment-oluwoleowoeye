@@ -1,25 +1,33 @@
-# Final Project and Deployment
+# PrimeTech Solutions Business Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A professional business website for PrimeTech Solutions, an IT consulting company.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+- Responsive design that works on all devices
+- Three main pages: Home, About, and Contact
+- Interactive elements:
+  - Testimonial slider
+  - FAQ accordion
+  - Form validation
+  - Mobile menu
+- Modern design with CSS animations
+- Semantic HTML5 structure
 
-## Tasks
+## Technologies Used
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (ES6)
+- Font Awesome icons
 
-Good luck and happy coding! 🚀💻
+## How to Run Locally
+
+1. Clone this repository
+2. Open the `index.html` file in your browser
+
+## Deployment
+
+This website is deployed on https://melodic-starship-202a46.netlify.app
+
+## Project Structure
